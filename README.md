@@ -25,7 +25,7 @@ Dibangun dengan **Kotlin** dan **Laravel backend**.
 
 ## 🎥 Demo Video
 <p align="center">
-  <a href="https://youtu.be/GISUEjKLQgA?si=GXELMpv2vnO7fnUN" target="_blank">
+  <a href="https://drive.google.com/file/d/1SVyz6IUAEB9sLoyLphEYRExWru6Yuwsi/view?usp=sharing" target="_blank">
     <img src="https://i.ytimg.com/vi/GISUEjKLQgA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDT4yJySifnLhGGHwPCfKrAjrJwyw" 
          alt="Demo Video" width="480"/>
   </a>
